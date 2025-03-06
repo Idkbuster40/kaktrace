@@ -1,0 +1,2 @@
+# kaktrace
+Kaktrace - OpenCL raytracer.
