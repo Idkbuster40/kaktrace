@@ -1,7 +1,7 @@
 CC = gcc # Compiler
 MAKE = make
 CFLAGS = -Wno-deprecated-declarations -Wall # Compile Flags
-LDFLAGS = -lm # Linker FLags
+LDFLAGS = -lm -lX11 # Linker FLags
 NAME = kaktrace
 
 OBJECTS = # Object files

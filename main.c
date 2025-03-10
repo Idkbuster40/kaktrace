@@ -8,5 +8,10 @@
 #include <string.h> /* Strlen and stuff */
 #include <math.h>
 #include <time.h> /* srandom(time(null)) */
+#include "ktrace/c_window.h"
 
+
+int main() {
+	c_window;
+}
 
